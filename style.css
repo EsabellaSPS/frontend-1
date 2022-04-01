@@ -1,3 +1,23 @@
 .wow {
   width: 100px;
 }
+#nameTag .bar{
+  height: 25%;
+  width: 100%;
+  background-color: hotpink;
+}
+.button {
+  height: 33.33%;
+  width: 33.33%;
+  vertical-align: center;
+}
+.button:hover {
+  background-color: blueviolet;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
