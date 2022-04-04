@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #dashboard {
   background-color: whitesmoke;
   width: 800px;
@@ -26,4 +27,30 @@ p {
 
 button: {
 
+=======
+/* 
+.wow {
+  width: 100px;
 }
+#nameTag .bar{
+  height: 25%;
+  width: 100%;
+  background-color: hotpink;
+}
+.button {
+  height: 33.33%;
+  width: 33.33%;
+  vertical-align: center;
+}
+.button:hover {
+  background-color: blueviolet;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+>>>>>>> e512ede2c6f26dc7d105507b6f2ff67fe8ee9f6a
+}
+*/
